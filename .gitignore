@@ -1,0 +1,14 @@
+# Node.js dependencies
+client/node_modules/
+server/node_modules/
+
+# Environment files
+client/.env
+server/.env
+
+# Logs
+*.log
+
+# Build folders
+client/dist/
+server/dist/
