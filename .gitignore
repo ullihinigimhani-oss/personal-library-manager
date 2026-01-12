@@ -12,3 +12,4 @@ server/.env
 # Build folders
 client/dist/
 server/dist/
+node_modules
